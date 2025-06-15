@@ -6,3 +6,4 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 4. npm run build
 5. npm start
 6. it will run on portal 3000
+https://personalportfolio-2vh8.onrender.com
